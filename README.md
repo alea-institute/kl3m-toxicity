@@ -303,3 +303,7 @@ $ bash run_experiment_003.sh
 ```
 
 Dependency versions listed in `pyproject.toml`. 
+
+# License
+* **Source code**: [Apache 2](https://www.apache.org/licenses/LICENSE-2.0)
+* **Data**: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
